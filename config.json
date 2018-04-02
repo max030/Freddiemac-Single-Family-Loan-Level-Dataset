@@ -1,0 +1,10 @@
+{	 "USERNAME" : "malshetti.s@husky.neu.edu",
+      "PASSWORD" : "NlGoGFC9",
+      "START_YEAR" : "2005",
+      "END_YEAR" : "2016",
+      "DIR_NAME" : "downloaded_samples",
+	  "login_page_url" : "https://freddiemac.embs.com/FLoan/secure/auth.php",
+      "download_page_url" : "https://freddiemac.embs.com/FLoan/Data/download.php",
+	  "DIR_NAME" : "downloaded_samples",
+	  "UNZIPPED_DIR_NAME" : "unzipped_content"
+}
